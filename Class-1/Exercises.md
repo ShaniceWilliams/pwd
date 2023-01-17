@@ -29,13 +29,13 @@ $ mysql>
 4. Provide an SQL script to list all the available databases.
 
 ```sql
-?
+? SHOW DATABASES;
 ```
 
 5. Create a new database called `lab1_exercise_db`.
 
 ```sql
-?
+? CREATE DATABASE lab1_exercise_db
 ```
 
 6. Select the `lab1_exercise_db` database as the current database to work.
